@@ -1,0 +1,24 @@
+{
+  "name": "warn_diff",
+  "version": "1.0.0",
+  "description": "A GitHub action to warn about metric change",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gordon01/warn_diff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gordon01/warn_diff/issues"
+  },
+  "homepage": "https://github.com/Gordon01/warn_diff#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1"
+  }
+}
